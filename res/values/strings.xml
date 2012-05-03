@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Products List</string>
+    <string name="app_name">Products List</string>
+    <string name="message_text">Message</string>
+    <string name="activities_list">Activities List</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+
+</resources>
